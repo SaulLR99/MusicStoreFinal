@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734107273216",
+    "project_id": "music-store-40f36",
+    "storage_bucket": "music-store-40f36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734107273216:android:a4bdd979d482f67d5830e5",
+        "android_client_info": {
+          "package_name": "com.example.musicstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734107273216-40tdo3fsl1j4r6jjel1t403djte2b5oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD83-CledS-kF9Tk6mxvfaa1ppPqvTfySk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734107273216-40tdo3fsl1j4r6jjel1t403djte2b5oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

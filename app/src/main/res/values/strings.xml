@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MusicStore</string>
+    <string name="descripcion_viento">Los instrumentos de viento o aerófonos son una familia de instrumentos musicales los cuales producen el sonido por la vibración del contenido de aire en su interior, sin necesidad de cuerdas o membranas porque solo requiere de la vibración del aire. Los aerófonos de metal producen un sonido de timbre fuerte.</string>
+    <string name="descripcion_cuerda">Los instrumentos de cuerda o cordófonos son instrumentos musicales que producen sonidos por medio de las vibraciones de una o más cuerdas, usualmente amplificadas por medio de una caja de resonancia.</string>
+    <string name="descripcion_percusion">Un instrumento de percusión es un tipo de instrumento musical cuyo sonido se origina al ser golpeado o agitado. Es la forma más antigua de instrumento musical. La percusión se distingue por la variedad de timbres que es capaz de producir y por su facilidad de adaptación con otros instrumentos musicales.</string>
+    <string name="descripcion_electronicos">Un instrumento musical electrónico es un instrumento musical que produce sonido mediante circuitos electrónicos. ... Una interfaz de usuario muy utilizada es el teclado musical, que funciona de manera similar al de un piano acústico, excepto por que en un teclado electrónico, el propio teclado no produce ningún sonido.</string>
+    <string name="registrar">registrar</string>
+    <string name="iniciar_sesion">iniciar sesión</string>
+    <string name="a_n_no_tienes_una_cuenta">¿Aún no tienes una cuenta?</string>
+    <string name="registrate">registrate</string>
+    <string name="registrarse">registrarse</string>
+    <string name="prefs_file">com.example.musicstore.PREFERENCE_FILE_KEY</string>
+    <string name="facebook_app_id">3518819511519839</string>
+    <string name="fb_login_protocol_scheme">fb3518819511519839</string>
+
+</resources>

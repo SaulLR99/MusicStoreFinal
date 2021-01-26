@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    app:cardCornerRadius="20dp"
+    app:cardElevation="10dp"
+    app:cardUseCompatPadding="true"
+    android:clickable="true"
+    android:layout_gravity="top|center"
+    android:foreground="?attr/selectableItemBackground"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        >
+
+
+        <ImageView
+            android:id="@+id/imgInstrumento"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            app:srcCompat="@drawable/instrumento_viento"
+            />
+
+        <TextView
+            android:id="@+id/textTipo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tipo de instrumento"
+            android:textSize="26dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/imgInstrumento"/>
+
+        <TextView
+            android:id="@+id/textDescripcion"
+            android:layout_width="365dp"
+            android:layout_height="47dp"
+            android:layout_below="@id/textTipo"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            android:text="Descripción"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:textColor="@color/teal_700" />
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
